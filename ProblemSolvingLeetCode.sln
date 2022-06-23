@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_Element_27", "Remove
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_Duplicates_from_Sorted_Array26", "Remove_Duplicates_from_Sorted_Array26\Remove_Duplicates_from_Sorted_Array26.csproj", "{C899BF6C-2824-45D2-A927-E5E20EC6D83D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two_Sum", "Two_Sum\Two_Sum.csproj", "{56C3FB37-7502-44C5-A104-EA17CC133B1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{C899BF6C-2824-45D2-A927-E5E20EC6D83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C899BF6C-2824-45D2-A927-E5E20EC6D83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C899BF6C-2824-45D2-A927-E5E20EC6D83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C3FB37-7502-44C5-A104-EA17CC133B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C3FB37-7502-44C5-A104-EA17CC133B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C3FB37-7502-44C5-A104-EA17CC133B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C3FB37-7502-44C5-A104-EA17CC133B1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
