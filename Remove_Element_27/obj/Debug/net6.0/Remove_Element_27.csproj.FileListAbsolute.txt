@@ -1,0 +1,15 @@
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\bin\Debug\net6.0\Remove_Element_27.exe
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\bin\Debug\net6.0\Remove_Element_27.deps.json
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\bin\Debug\net6.0\Remove_Element_27.runtimeconfig.json
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\bin\Debug\net6.0\Remove_Element_27.dll
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\bin\Debug\net6.0\Remove_Element_27.pdb
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\obj\Debug\net6.0\Remove_Element_27.csproj.AssemblyReference.cache
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\obj\Debug\net6.0\Remove_Element_27.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\obj\Debug\net6.0\Remove_Element_27.AssemblyInfoInputs.cache
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\obj\Debug\net6.0\Remove_Element_27.AssemblyInfo.cs
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\obj\Debug\net6.0\Remove_Element_27.csproj.CoreCompileInputs.cache
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\obj\Debug\net6.0\Remove_Element_27.dll
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\obj\Debug\net6.0\refint\Remove_Element_27.dll
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\obj\Debug\net6.0\Remove_Element_27.pdb
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\obj\Debug\net6.0\Remove_Element_27.genruntimeconfig.cache
+E:\My Learnig\ProblemSolvingLeetCode\Remove_Element_27\obj\Debug\net6.0\ref\Remove_Element_27.dll

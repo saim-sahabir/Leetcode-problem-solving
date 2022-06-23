@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Length_of_Last_Word_58", "Length_of_Last_Word_58\Length_of_Last_Word_58.csproj", "{8CA61B86-D4E4-4DA9-97BA-0F6F67185F89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_Element_27", "Remove_Element_27\Remove_Element_27.csproj", "{A478D2A0-90B0-42EA-9B9A-C5305406A9D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_Duplicates_from_Sorted_Array26", "Remove_Duplicates_from_Sorted_Array26\Remove_Duplicates_from_Sorted_Array26.csproj", "{C899BF6C-2824-45D2-A927-E5E20EC6D83D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CA61B86-D4E4-4DA9-97BA-0F6F67185F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA61B86-D4E4-4DA9-97BA-0F6F67185F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA61B86-D4E4-4DA9-97BA-0F6F67185F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA61B86-D4E4-4DA9-97BA-0F6F67185F89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A478D2A0-90B0-42EA-9B9A-C5305406A9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A478D2A0-90B0-42EA-9B9A-C5305406A9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A478D2A0-90B0-42EA-9B9A-C5305406A9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A478D2A0-90B0-42EA-9B9A-C5305406A9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C899BF6C-2824-45D2-A927-E5E20EC6D83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C899BF6C-2824-45D2-A927-E5E20EC6D83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C899BF6C-2824-45D2-A927-E5E20EC6D83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C899BF6C-2824-45D2-A927-E5E20EC6D83D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
