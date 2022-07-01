@@ -1,0 +1,15 @@
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\bin\Debug\net6.0\Running_Sum _of_1d _Array_1480.exe
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\bin\Debug\net6.0\Running_Sum _of_1d _Array_1480.deps.json
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\bin\Debug\net6.0\Running_Sum _of_1d _Array_1480.runtimeconfig.json
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\bin\Debug\net6.0\Running_Sum _of_1d _Array_1480.dll
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\bin\Debug\net6.0\Running_Sum _of_1d _Array_1480.pdb
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\obj\Debug\net6.0\Running_Sum _of_1d _Array_1480.csproj.AssemblyReference.cache
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\obj\Debug\net6.0\Running_Sum _of_1d _Array_1480.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\obj\Debug\net6.0\Running_Sum _of_1d _Array_1480.AssemblyInfoInputs.cache
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\obj\Debug\net6.0\Running_Sum _of_1d _Array_1480.AssemblyInfo.cs
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\obj\Debug\net6.0\Running_Sum _of_1d _Array_1480.csproj.CoreCompileInputs.cache
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\obj\Debug\net6.0\Running_Sum _of_1d _Array_1480.dll
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\obj\Debug\net6.0\refint\Running_Sum _of_1d _Array_1480.dll
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\obj\Debug\net6.0\Running_Sum _of_1d _Array_1480.pdb
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\obj\Debug\net6.0\Running_Sum _of_1d _Array_1480.genruntimeconfig.cache
+E:\My Learnig\ProblemSolvingLeetCode\Running_Sum _of_1d _Array_1480\obj\Debug\net6.0\ref\Running_Sum _of_1d _Array_1480.dll

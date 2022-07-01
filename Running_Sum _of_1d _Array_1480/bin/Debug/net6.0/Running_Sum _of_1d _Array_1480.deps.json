@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Running_Sum _of_1d _Array_1480/1.0.0": {
+        "runtime": {
+          "Running_Sum _of_1d _Array_1480.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Running_Sum _of_1d _Array_1480/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
