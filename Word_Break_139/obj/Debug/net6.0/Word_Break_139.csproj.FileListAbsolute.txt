@@ -1,0 +1,15 @@
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\bin\Debug\net6.0\Word_Break_139.exe
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\bin\Debug\net6.0\Word_Break_139.deps.json
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\bin\Debug\net6.0\Word_Break_139.runtimeconfig.json
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\bin\Debug\net6.0\Word_Break_139.dll
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\bin\Debug\net6.0\Word_Break_139.pdb
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\obj\Debug\net6.0\Word_Break_139.csproj.AssemblyReference.cache
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\obj\Debug\net6.0\Word_Break_139.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\obj\Debug\net6.0\Word_Break_139.AssemblyInfoInputs.cache
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\obj\Debug\net6.0\Word_Break_139.AssemblyInfo.cs
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\obj\Debug\net6.0\Word_Break_139.csproj.CoreCompileInputs.cache
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\obj\Debug\net6.0\Word_Break_139.dll
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\obj\Debug\net6.0\refint\Word_Break_139.dll
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\obj\Debug\net6.0\Word_Break_139.pdb
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\obj\Debug\net6.0\Word_Break_139.genruntimeconfig.cache
+E:\My Learnig\ProblemSolvingLeetCode\Word_Break_139\obj\Debug\net6.0\ref\Word_Break_139.dll
